@@ -2,7 +2,7 @@
 - 👀 I’m interested in many subjects, from natural to human sciences, technologies and arts
 - 🌱 I’m currently learning...
   - how does radiation (particles at relativity velocities) interact with matter
-  - how can I use SiPM and amplifiers to catch photons studing interesting events
+  - how can I use SiPM and amplifiers to catch photons studying interesting events
   - how can I simulate those events using GEANT4, ROOT, and C++
   - how do computers work under the hood, I am obsessed by protocols
   - how do programming and human languages work, and evolve through the human generations
